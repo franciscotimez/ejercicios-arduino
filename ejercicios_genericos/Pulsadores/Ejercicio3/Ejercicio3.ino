@@ -38,15 +38,15 @@ void leer_pulsador(int pin, int &estado_anterior)
   {
     Serial.println("Pulsador Bajo");
   }
-  if (estado_anterior == 0 && estado_actual == 1)
+  else if (estado_anterior == 0 && estado_actual == 1)
   {
     Serial.println("Pulsador Subiendo");
   }
-  if (estado_anterior == 1 && estado_actual == 0)
+  else if (estado_anterior == 1 && estado_actual == 0)
   {
     Serial.println("Pulsador Bajando");
   }
-  if (estado_anterior == 1 && estado_actual == 1)
+  else if (estado_anterior == 1 && estado_actual == 1)
   {
     Serial.println("Pulsador Alto");
   }
