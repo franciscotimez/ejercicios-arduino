@@ -42,3 +42,10 @@ Conectar:
 - Un Sensor de distancia por ultrasonido
 
 Leer el valor del sensor y mostrar la Distancia medida por el monitor Serial.
+
+### Ejercicio 2:
+
+Conectar:
+- Un Sensor de distancia por ultrasonido
+
+Leer el valor del sensor y mostrar la Distancia medida por el monitor Serial. Encapsular el funcionamiento del sensor en una funcion.
