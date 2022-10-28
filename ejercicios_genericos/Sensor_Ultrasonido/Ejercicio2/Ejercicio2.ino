@@ -37,4 +37,5 @@ long leer_distancia(int trig_pin, int echo_pin){
 
   t = pulseIn(echo_pin, HIGH); // obtenemos el ancho del pulso
   d = t / 59;              // escalamos el tiempo a una distancia en cm
+  return d;
 }
