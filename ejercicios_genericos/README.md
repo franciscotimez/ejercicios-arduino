@@ -2,6 +2,10 @@
 
 ## Pulsadores
 
+Circuito de pruebas
+
+![Circuito de pruebas](/ejercicios_genericos/Pulsadores/Circuitos/Ar-2L-1P.png "Circuito de pruebas")
+
 ### Ejercicio 1:
 
 Conectar:
@@ -35,6 +39,11 @@ Conectar:
 Leer el pulsador, con el flanco de bajada del pulsador accionar el LED amarillo, y con el flanco de subida accionar el LED Rojo.
 
 ## Sensor Ultrasonido
+
+Circuito de pruebas
+
+![Circuito de pruebas](/ejercicios_genericos/Pulsadores/Circuitos/Ar-sr04.png "Circuito de pruebas")
+
 
 ### Ejercicio 1:
 
