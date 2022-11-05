@@ -58,3 +58,18 @@ Conectar:
 - Un Sensor de distancia por ultrasonido
 
 Leer el valor del sensor y mostrar la Distancia medida por el monitor Serial. Encapsular el funcionamiento del sensor en una funcion.
+
+## Pantalla LCD i2c
+
+Circuito de pruebas
+
+![Circuito de pruebas](/ejercicios_genericos/Pantalla_i2c/Circuitos/Ar-lcdi2c.png "Circuito de pruebas")
+
+
+### Ejercicio 1:
+
+Conectar:
+- Una pantalla LCD i2c
+
+Imprimir en pantalla un mensaje de bienvenida.
+
